@@ -1,0 +1,11 @@
+[root@ip-10-1-0-178 ~]# cd testfils/
+[root@ip-10-1-0-178 testfils]# git push -u origin master
+Username for 'https://github.com': pillaribhanu
+Password for 'https://pillaribhanu@github.com':
+remote: Support for password authentication was removed on August 13, 2021. Plea                                                       se use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requireme                                                       nts-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/pillaribhanu/Shell_scripts.                                                       git/'
+[root@ip-10-1-0-178 testfils]#
+
+
+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
